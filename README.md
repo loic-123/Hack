@@ -71,4 +71,4 @@ Description of all of the features:
 
 36. incident_occurred â€“ Actual outcome flag (0 = no safety incident occurred, 1 = a safety incident occurred), based on true physical risk rather than Avalonâ€™s decision.
 
-37. year â€“ Calendar year for the record (between 1991 and 2025).
+37. year â€“ Calendar year for the record (between 1991 and 2025)
